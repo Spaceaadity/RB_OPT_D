@@ -1,0 +1,34 @@
+.register{
+	display: inline-block;
+}
+.login{
+	display: inline-block;
+}
+.allQuotes{
+	margin-right: 10%;
+	display: inline-block;
+	border: 1px solid black;
+}
+.favQuotes{
+	margin-right: 10%;
+	vertical-align: top;
+	display: inline-block;
+	border: 1px solid black;
+}
+.quotes{
+	border-bottom: 1px solid black;
+}
+.quotes:last-child{
+	border-bottom: none;
+}
+.addQuote{
+	display: inline-block;
+	vertical-align: top;
+}
+.welcomeMsg{
+	display: inline-block;
+}
+a{
+	display: inline-block;
+	margin-left: 80%;
+}
